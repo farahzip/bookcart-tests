@@ -1,6 +1,6 @@
 # BookCart Test Cases and Automation Test
 
-This project contains test cases and an automated smoke test that verifies the login functionality of the BookCart (https://bookcart.azurewebsites.net) web application using Selenium and Python.
+This project contains test cases formatted in an excel file and an automated smoke test that verifies the login functionality of the BookCart (https://bookcart.azurewebsites.net) web application using Selenium and Python.
 
 ## Smoke Test 
 
